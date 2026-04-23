@@ -93,6 +93,7 @@ while True:
         break
 ```
 <img width="1907" height="339" alt="Screenshot 2026-04-23 215456" src="https://github.com/user-attachments/assets/26a764ad-7df7-429e-923d-ccc898a26f78" />
+
 ```
 server.py
 import socket
