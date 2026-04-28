@@ -92,7 +92,7 @@ while True:
         c.close()
         break
 ```
-<img width="1907" height="339" alt="Screenshot 2026-04-23 215456" src="https://github.com/user-attachments/assets/26a764ad-7df7-429e-923d-ccc898a26f78" />
+<img width="1507" height="359" alt="Screenshot 2026-04-28 155513" src="https://github.com/user-attachments/assets/dbdaf6db-202c-4f19-9360-f67c4b89a9d9" />
 
 ```
 server.py
@@ -103,7 +103,8 @@ while True:
     print(s.recv(1024).decode())
     s.send("Acknowledgement Recived".encode())
 ```
-<img width="1872" height="365" alt="Screenshot 2026-04-23 215435" src="https://github.com/user-attachments/assets/72e67b41-707c-46aa-a0f1-7d323ee1231d" />
+<img width="1874" height="382" alt="Screenshot 2026-04-28 155542" src="https://github.com/user-attachments/assets/9fc17b5c-7c7b-4d33-8e63-8744ffc94c4e" />
+
 
 ## Result:
 
